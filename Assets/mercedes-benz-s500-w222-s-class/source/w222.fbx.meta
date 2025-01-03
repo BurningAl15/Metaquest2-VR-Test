@@ -3,7 +3,132 @@ guid: 8ebfff8a620dd43a489562e04c785d08
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 1ac985cc1dc55e248b81ad327c6a8b57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 8f2d867c51cfc094184a4f4c15042a94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 347fd8ff50b75d046a5320f88cfa1ae5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: a5ae4c3715623c04c83846845894b598, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: d4866027ecbc8c34b9fa61b2516d97f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_front_dam.005
+    second: {fileID: 2100000, guid: ae2628758a04bba4bb0ce084533c69dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_front_dam.006
+    second: {fileID: 2100000, guid: 30021e9bc745fea4982d7504908474d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_front_dam.007
+    second: {fileID: 2100000, guid: cfd2be16e32db29488605239c733acca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_front_ok.002
+    second: {fileID: 2100000, guid: 3fb4a21c2000d7142a375baa1c59038f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_front_ok.005
+    second: {fileID: 2100000, guid: 97ccd5e0c7b83644c9f92d08d6a333b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bump_front_ok.006
+    second: {fileID: 2100000, guid: 711295c589b58c24da07c7f1b6866a52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front_light.001
+    second: {fileID: 2100000, guid: d602a27f6d99ac447a17df393b3b0116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front_light.003
+    second: {fileID: 2100000, guid: bad7af82df8e7974e9ac38a6ddce4902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front_light.006
+    second: {fileID: 2100000, guid: d7af6acda55c57a44b57568a6704ccd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: left front light.001
+    second: {fileID: 2100000, guid: 4fd3421325050c64b838e4dddf2e888f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: niz.001
+    second: {fileID: 2100000, guid: 05d1b368297c1a64cbb81dcc795e7091, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: niz.002
+    second: {fileID: 2100000, guid: d3fe903875c138e4eb143fa34e39f733, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: niz.003
+    second: {fileID: 2100000, guid: a7e98053bdf6d3040b9ba0d49f724840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: niz.010
+    second: {fileID: 2100000, guid: 37d0610991afaac4dae51aa6254bfb4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: niz.011
+    second: {fileID: 2100000, guid: 60d99c9a4471f904bb5ef8ff88fdaf19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: primary.001
+    second: {fileID: 2100000, guid: a98bc5da15d0fae4ca374b8b5f24dbc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_light.001
+    second: {fileID: 2100000, guid: de0b48095faf81443995a34def2545d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel_rf.003
+    second: {fileID: 2100000, guid: 3f44dda4d598832408a7b6ee87c7b860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel_rf.004
+    second: {fileID: 2100000, guid: 4182397e7faa2ef45b5536d15016c72e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel_rf.005
+    second: {fileID: 2100000, guid: 3db52c64857d473439d22db7eacaf466, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -36,19 +161,19 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
+    meshCompression: 1
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
+    importCameras: 0
+    importLights: 0
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
-    swapUVChannels: 0
-    generateSecondaryUV: 0
+    swapUVChannels: 1
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
@@ -93,11 +218,11 @@ ModelImporter:
     globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
